@@ -1,0 +1,112 @@
+h1{
+	color: blue;
+}
+h4{
+	font-size: 20px;
+}
+.heading-1{
+	background: grad;
+}
+.table-1{
+	font-size: 25px;
+	background: #E6E7E9;
+	color: black;
+}
+.table-1{
+	background: #F2F3F8;
+	font-size: 17px;
+}
+.table-2{
+	background: white;
+	border: none;
+}
+input{
+	height: 45px;
+	width: 500px;
+	border: 1;
+	font-size: 20px;
+}
+.riyad{
+	background: #4CAF50;
+	height: 45px;
+}
+.tr-1{
+	background: red;
+}
+.tr{
+	background: white;
+	border: none;
+}
+.logo{
+	background: #4CAF50;
+	color: #F2F3F8;
+	font-size: 20px;
+}
+.at{
+	background: #4CAF50;
+	color: white;
+	font-size: 20px;
+}
+.hot{
+	background: white;
+	color: black;
+	height: 10px;
+	width: 0px;
+	margin: green;
+}
+.row{
+	background: #FFFFFF;
+}
+.row-2{
+	color: black;
+	font-size: 30px;
+}
+.row-3{
+	background: #4CAF50;
+}
+.row-4{
+	font-size: 20px;
+	background: #C7EAC0;
+}
+.font{
+	color: #4CAF50;
+}
+.del{
+	color: #C3C3C5;
+}
+.top{
+	color: white;
+	background: #4CAF50;
+}
+body{
+	background: #E8E8FF;
+}
+.rk{
+	background: white;
+}
+.ab{
+	background: white;
+}
+.pi{
+	background: #111723;
+	color: white;
+}
+.email{
+	height: 40px;
+	width: 90px;
+	border: 1;
+	font-size: 15px;
+	background: #4CAF50;
+	border: #4CAF50;
+}
+.email-2{
+	height: 35px;
+	width: 300px;
+	border: 1;
+	font-size: 15px;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+	
